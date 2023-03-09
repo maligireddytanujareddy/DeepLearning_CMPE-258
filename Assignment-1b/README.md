@@ -1,6 +1,6 @@
 Treat yourself (group) as a startup and have to deliver a gpt-3 based advanced AI application
 
-deliver a web ui (gradio based is fine on colab) based application using gpt-3 which involves finetuning and prompt engineering.
+deliver a web ui(gradio based is fine on colab) based application using gpt-3 which involves finetuning and prompt engineering.
 
 this is a group assignment - minimum per group is 3 max is 5
 
