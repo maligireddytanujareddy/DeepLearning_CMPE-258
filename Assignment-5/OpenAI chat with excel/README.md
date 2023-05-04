@@ -1,2 +1,2 @@
 Open AI Chat:
-Colab Link: https://colab.research.google.com/drive/1V6Z4M_UCfK_aD7uDCPxXvm7UwTRNBfwb?authuser=1#scrollTo=24ucPr8GD0fz
+Colab Link: https://colab.research.google.com/drive/1r8jm-SRjxnSmNXnoasWQfcivQ081bZd2?authuser=1
