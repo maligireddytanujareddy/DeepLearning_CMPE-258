@@ -18,9 +18,11 @@
 
 The Wildlife Conservation Chatbot is a project that aims to raise awareness about wildlife conservation and provide users with valuable information about conservation policies, rates of animal species detected in their uploaded images, and more. The chatbot utilizes the OpenAI API for natural language processing and Gradio for creating an intuitive user interface.
 
-## Presentation Link: https://prezi.com/view/cmrCe3B9D5bWB01aMlWw/
+[Presentation Link (https://prezi.com/view/cmrCe3B9D5bWB01aMlWw/)
 
-## Video Link: 
+
+[Video Link]()
+
 ## 💡 Features
 
 - 🤖 AI-powered chatbot: Engage in conversations about wildlife conservation, policies, and more.
