@@ -21,7 +21,7 @@ The Wildlife Conservation Chatbot is a project that aims to raise awareness abou
 [Presentation Link](https://prezi.com/view/cmrCe3B9D5bWB01aMlWw/)
 
 
-[Video Link]()
+[Video Link](https://drive.google.com/file/d/1WgdtXI0XVofunOC3i6pGPCsplzyUa2Zn/view?usp=drivesdk)
 
 ## 💡 Features
 
